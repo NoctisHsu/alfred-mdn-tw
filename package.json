@@ -1,9 +1,9 @@
 {
-  "name": "alfred-mdn",
-  "version": "2.1.5",
+  "name": "alfred-mdn-tw",
+  "version": "1.0.0",
   "description": "Search through the MDN documentation",
   "main": "index.js",
-  "repository": "klaascuvelier/alfred-mdn",
+  "repository": "noctishsu/alfred-mdn-tw",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "postinstall": "alfy-init",
@@ -21,9 +21,8 @@
     "js"
   ],
   "author": {
-    "name": "Klaas Cuvelier",
-    "email": "cuvelierklaas@gmail.com",
-    "url": "klaascuvelier.io"
+    "name": "Noctis",
+    "email": "noctishsu@gmail.com"
   },
   "license": "MIT",
   "dependencies": {
